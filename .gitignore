@@ -1,0 +1,41 @@
+# Compiled files
+*.ko
+*.o
+*.mod
+*.mod.c
+*.o.cmd
+*.ko.cmd
+*.mod.o
+.*.cmd
+*.order
+*.symvers
+*.markers
+
+# Build directories
+.tmp_versions/
+BUILD/
+BUILDROOT/
+
+# Backup files
+*~
+*.swp
+*.swo
+.*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Temporary files
+*.tmp
+*.bak
+
+# Don't ignore the final packages
+!*.deb
+!*.rpm
+!*.tar.gz
