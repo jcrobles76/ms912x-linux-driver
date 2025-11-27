@@ -39,3 +39,14 @@ Thumbs.db
 !*.deb
 !*.rpm
 !*.tar.gz
+
+# Temporary files for development/promotion
+*-temp.md
+reddit-post.md
+forum-post.md
+social-media-post.txt
+github-discussion.md
+setup-github-repo.sh
+create-announcement.sh
+MCP-SETUP-GUIDE.md
+setup-mcp-github.sh
